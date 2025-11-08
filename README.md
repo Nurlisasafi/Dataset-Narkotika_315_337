@@ -10,11 +10,17 @@ Information Retrieval (IR), dan Text Mining Hukum, khususnya dalam menganalisis 
 Struktur Data Set
 Dataset disimpan dalam format Excel dengan kolom-kolom berikut:
 
-Kolom	:                               Deskripsi:
-Nomor_putusan	                        Nomor resmi putusan pengadilan (misal: 123/Pid.Sus/2023/PN Rbi)
-Lembaga Peradilan                     Nama lembaga peradilan yang mengeluarkan putusan (misal: PN Raba Bima)
-Barang_bukti	                        Daftar barang bukti yang disita
-Amar_putusan	                        Hasil akhir putusan (contoh: pidana penjara, denda, rehabilitasi)
+Kolom	:
+Nomor_putusan	                        
+Lembaga Peradilan                     
+Barang_bukti	                        
+Amar_putusan	                        
+
+Deskripsi:
+Nomor resmi putusan pengadilan (misal: 123/Pid.Sus/2023/PN Rbi)
+Nama lembaga peradilan yang mengeluarkan putusan (misal: PN Raba Bima)
+Daftar barang bukti yang disita
+Hasil akhir putusan (contoh: pidana penjara, denda, rehabilitasi)
 
 Proses Pengumpulan dan Preprosesing
 1. Pengumpulan Data
